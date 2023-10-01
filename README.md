@@ -1,0 +1,20 @@
+## missi_phone_global-user 13 TKQ1.221114.001 V14.0.7.0.TMGMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: bengal
+- Codename: mivendor
+- Brand: Redmi
+- Flavor: missi_phone_global-user
+- Release Version: 13
+- Kernel Version: 5.15.78
+- Id: TKQ1.221114.001
+- Incremental: V14.0.7.0.TMGMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: Redmi/sm6225/mivendor:13/TKQ1.221114.001/V14.0.7.0.TMGMIXM:user/release-keys
+- OTA version: 
+- Branch: missi_phone_global-user-13-TKQ1.221114.001-V14.0.7.0.TMGMIXM-release-keys
+- Repo: redmi_mivendor_dump
